@@ -23,6 +23,7 @@ public interface Aircraft {
     void addDangerousSector(int sector);
 
     /**
+     * dsfdsds
      * notify about free sector
      *
      * @param sector free sector
